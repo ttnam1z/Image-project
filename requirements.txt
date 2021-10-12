@@ -3,6 +3,6 @@ skimage == 0.16.2
 numpy == 1.18.1
 scipy == 1.4.1
 sklearn == 0.22.1
-opencv-python == 4.1.2
+opencv-python == 4.2.0.32
 imutils == 0.5.3
 joblib == 0.14.1
