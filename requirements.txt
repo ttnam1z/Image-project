@@ -5,4 +5,4 @@ scipy == 1.4.1
 sklearn == 0.22.1
 opencv-python == 4.1.2
 imutils == 0.5.3
-joblib == 0.14.1
+joblib == 1.2.0
